@@ -313,8 +313,8 @@ export const projects = [
       "React.js"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/Itsbitscoder/portfolioo",
+    webapp: "https://portfolioo-nine-inky.vercel.app/",
   },
 
   {
